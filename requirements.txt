@@ -8,3 +8,4 @@ scikit-learn
 tensorflow
 imbalanced-learn
 jupyter
+streamlit
