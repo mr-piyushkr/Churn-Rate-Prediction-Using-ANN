@@ -9,3 +9,4 @@ tensorflow
 imbalanced-learn
 jupyter
 streamlit
+smote
