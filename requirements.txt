@@ -1,0 +1,10 @@
+typing_extensions==4.15.0
+
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+imbalanced-learn
+jupyter
