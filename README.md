@@ -72,22 +72,30 @@ The dataset contains customer information such as:
 
 ## 🚀 How to Run the Project
 
-```bash
-# Create virtual environment
+### Create virtual environment
+```
 conda create -n ml_env python=3.10
+```
 
-# Activate environment
+### Install environment
+```
 conda activate ml_env
+```
 
-# Install dependencies
+### Installdependencies
+```
 pip install -r requirements.txt
+```
 
-# Run Jupyter Notebook
+### Run Jupyter Notebook
+```
 python -m jupyter notebook
-
+```
 Open the notebook churn-rate-prediction-using-ann.ipynb and run all cells.
 
-📈 Output
+---
+
+## 📈 Output
 The model predicts whether a customer is likely to:
 
 Stay with the bank (0)
@@ -95,8 +103,14 @@ Leave the bank (1)
 
 This can help banks design targeted retention strategies.
 
+---
 
-👤 Author
+## 📄 License
+This project is licensed under the MIT License.
+
+---
+
+## 👤 Piyush
 Piyush Kumar
 
 
