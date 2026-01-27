@@ -6,7 +6,7 @@ The goal is to identify customers who are likely to leave the bank so that proac
 retention strategies can be applied.
 
 
-🔗 GitHub Repo: [Link]()
+🔗 GitHub Repo: [Link](https://github.com/mr-piyushkr/Churn-Rate-Prediction-Using-ANN.git)
 
 🌐 Live Demo: [Link](https://churn-rate-prediction-using-ann-8kzvnrusn3glfebxcmzzqw.streamlit.app/)
 
