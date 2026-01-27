@@ -5,7 +5,10 @@ This project focuses on predicting **customer churn** in the banking domain usin
 The goal is to identify customers who are likely to leave the bank so that proactive
 retention strategies can be applied.
 
----
+
+🔗 GitHub Repo: [Link]()
+
+🌐 Live Demo: [Link](https://churn-rate-prediction-using-ann-8kzvnrusn3glfebxcmzzqw.streamlit.app/)
 
 ## 🔍 Problem Statement
 Customer churn is a major challenge in the banking industry.  
